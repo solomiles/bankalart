@@ -23,6 +23,7 @@
 <link rel="stylesheet" href="{{ asset ('assets/css/countdown.css')}}" />
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
 <link rel="stylesheet" href="{{ asset ('assets/plugins/bootstrap/css/bootstrap.css')}}" />
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
 {{--<link rel="stylesheet" href="https://247alerts.net/assets/templates/tsk/fonts/flaticon.css">--}}
     <link rel="stylesheet" href="https://247alerts.net/assets/templates/tsk/css/style.php?color=2ecc71&amp;secondColor=000036">
     <link rel="stylesheet" href="https://247alerts.net/assets/templates/tsk/css/responsive.css">
@@ -384,11 +385,13 @@
                                     <div class="col-xl-4 col-lg-4 col-md-6">
                                         <div class="well ">
                                             <a href="#">
-                                                <div class="">
-                                                    <i class="fas fa-user-plus"></i>
+                                                <div class="cent">
+                                                    <div class=" btn-lg ">
+                                                        <i class="fa fa-pencil"></i>
+                                                    </div>
                                                 </div>
                                                 <div class="part-text">
-                                                    <h3>Invest</h3>
+                                                    <h3 class="cent">Invest</h3>
                                                     <p>BankAlarts has minimum investment of N5,000  and maximum investment of N500,000</p>
                                                 </div>
                                             </a>
@@ -399,11 +402,13 @@
                                     <div class="col-xl-4 col-lg-4 col-md-6">
                                         <div class="well ">
                                             <a href="#">
-                                                <div class="">
-                                                    <i class="fas fa-user-plus"></i>
+                                                <div class="cent">
+                                                    <div class=" btn-lg ">
+                                                        <i class="glyphicon glyphicon-repeat"></i>
+                                                    </div>
                                                 </div>
                                                 <div class="part-text">
-                                                    <h3>Re Commitment</h3>
+                                                    <h3 class="cent">Re Commitment</h3>
                                                     <p>100% Re-commitment to ensure sustainability of BankAlarts </p>
                                                 </div>
                                             </a>
@@ -412,11 +417,13 @@
                                     <div class="col-xl-4 col-lg-4 col-md-6">
                                         <div class="well ">
                                             <a href="#">
-                                                <div class="">
-                                                    <i class="fas fa-user-plus"></i>
+                                                <div class="cent">
+                                                    <div class=" btn-lg ">
+                                                        <i class="glyphicon glyphicon-sort-by-attributes"></i>
+                                                    </div>
                                                 </div>
                                                 <div class="part-text">
-                                                    <h3>Referrer Bonus</h3>
+                                                    <h3 class="cent">Referrer Bonus</h3>
                                                     <p>5% continuous referrer bonuses from your downline</p>
                                                 </div>
                                             </a>
@@ -425,11 +432,13 @@
                                     <div class="col-xl-4 col-lg-4 col-md-6">
                                         <div class="well ">
                                             <a href="#">
-                                                <div class="">
-                                                    <i class="fas fa-user-plus"></i>
+                                                <div class="cent">
+                                                    <div class=" btn-lg ">
+                                                        <i class="glyphicon glyphicon-briefcase"></i>
+                                                    </div>
                                                 </div>
                                                 <div class="part-text">
-                                                    <h3>Make Withdrawal</h3>
+                                                    <h3 class="cent">Make Withdrawal</h3>
                                                     <p>After 3 days (72 hours) of investing to Bankalarts, you will wait to be matched to get paid. Which is instant.</p>
                                                 </div>
                                             </a>
