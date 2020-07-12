@@ -129,7 +129,6 @@
 
 				<ul>
 					<li><a href="#about">Ideology</a></li>
-					<li><img src="{{ asset('assets/img/favicon.png') }}" alt=""></li>
 					<li><a href="#login">login</a></li>
                     <li><a href="#">Register</a></li>
 <!-- {{--					<li><a href="#faq">faq</a></li>
