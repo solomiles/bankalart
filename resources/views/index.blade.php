@@ -454,40 +454,38 @@
 
 
 
-							<!--Login section-->
-							<!-- <section id="login" class="clearfix section"> -->
+							<!--Login section--><br>
+							 <section  class="clearfix section">
 
 								<!--Holder 960-->
-								<!-- <div class="holder960 clearfix"> -->
+                                 <div class="containe">
+                                     <div class="col-md-12">
+                                        <div class="well clearfix">
 
-										<!--Section title-->
-										<!-- <div class="secArrow">
-										<div class="arrowHolder"><img src="images/bigArrow-1.png" alt=""></div>
-										<i class="icon-user"></i>
-										</div> -->
-										<!--End section title-->
+                                                <!--Section title-->
 
-
-											<!--Intro-->
-											<!-- <div class="loginIntro">
-												<h1><span class="black">customer login</span>
-											connect to your account</h1>
+                                                 <div class="col-lg-4 col-lg-offset-4 col-md-4 col-md-offset-4">
+                                                     <div class="text-center"><h3>ABOUT US</h3></div>
+    {{--                                            <i class="icon-user"></i>--}}
+                                                </div>
+                                                <!--End section title-->
 
 
+                                                    <!--Intro-->
+                                                    <div class="loginIntro">
+                                                        <div class="part-text">
+                                                            <p>BANKALARTS PROVIDES A PROVEN AND SECURE PLATFORM FOR INVESTORS. BANKALARTS IS BASED ON P2P INVESTMENT SYSTEM, THEREBY ENSURING FINANCIAL SUSTAINABILITY, STABILITY AND GROWTH</p>
+                                                        </div>
 
-												<form  method="post" id="loginForm" action="#">
-												  <label>Your mail</label> <input type="text" name="u" size="15" />
-												  <label>Password</label> <input type="password" name="p" size="15" />
-												  <input type="submit" value="Login" name="action" />
-												</form>
+                                                    </div>
+                                                    <!--End intro-->
 
-											</div> -->
-											<!--End intro-->
-
-								<!-- </div> -->
+                                        </div>
+                                     </div>
+                                 </div>
 								<!--End Holder 960-->
 
-							<!-- </section> -->
+							 </section>
 						<!--End login-->
 
 
