@@ -113,9 +113,12 @@
 
 
 
+
 			<!--Logo-->
 			<div class="logo">
-			<a href="#wrapper"><h1><span>BANK</span>ALARTS<span></span></h1></a>
+			<a href="#wrapper">
+                <h1> <span>BANK</span>ALARTS<span></span></h1>
+            </a>
 			</div>
 			<!--End logo-->
 
@@ -126,11 +129,12 @@
 
 				<ul>
 					<li><a href="#about">Ideology</a></li>
-					<!-- <li><a href="#gallery">ideology</a></li> -->
-					<!-- <li><a href="#login">login</a></li> -->
-					<!-- <li><a href="#faq">faq</a></li>
-					<li><a href="#pricing">packages</a></li>
-					<li><a class="buy" href="#"><i class="icon-right-big"></i>purchase</a></li> -->
+					<li><img src="{{ asset('assets/img/favicon.png') }}" alt=""></li>
+					<li><a href="#login">login</a></li>
+                    <li><a href="#">Register</a></li>
+<!-- {{--					<li><a href="#faq">faq</a></li>
+{{--					<li><a href="#pricing">packages</a></li>
+{{--					<li><a class="buy" href="#"><i class="icon-right-big"></i>purchase</a></li>--}} -->
 					<li><a href="#contact">contact us</a></li>
 
 
